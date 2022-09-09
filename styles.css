@@ -1,0 +1,50 @@
+content {
+            background-color: greenyellow;
+            border: 1px solid black;
+            text-align: center;
+            width: 24.99%;
+            float: right;
+            color: black;
+            margin-top: 0px;
+            padding: 5px;
+            border-width: 1px;
+
+        }
+
+.EDIT1 {
+ 
+ width: 30%;
+ background-color: white;
+ border: 1px solid black;
+ margin: 5px;
+ float: left;
+ text-align: center;
+}
+
+@media screen and (max-width:991px){
+	.ClaseAprobar {
+		background-color: white;
+		float: left;
+		width: 93.5%;
+	}
+	.Clase2 {
+		background-color: white;
+		width:45%;
+	}
+}
+
+@media screen and (max-width:767px){
+	.ClaseAprobar {
+		background-color: white;
+		float: left;
+		width: 93.5%;
+	}
+	.Clase2 {
+		background-color: white;
+		width:93.5%;
+		float: left;
+	}
+}
+
+
+
